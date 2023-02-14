@@ -1,5 +1,4 @@
 # Buscador-Excel-SW
 - 1 - Descargar ZIP
-- 2 - Extraer EXE en una nueva carpeta llamda Buscador Excel SW
-- 3 - Mover LeasedLines a la carpeta creada
-- 4 - Abrir el programa BuscadorExcelSW.exe
+- 2 - Dar click derecho en el ZIP y seleccionar: Extraer en: "Buscador-Excel-SW-main"
+- 3 - Abrir el programa BuscadorExcelSW.exe
